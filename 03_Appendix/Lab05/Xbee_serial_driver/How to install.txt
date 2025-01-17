@@ -1,0 +1,8 @@
+(1) Open "CDM21228_Setup.exe" in the folder "CDM21228_Setup" and install it.
+・ Click "Extract"
+・ Check "I agree" and click "Next"
+・ After installation, click " Finish"
+(2) Open Device Manager, select the device you want to recognize, and perform "Update Driver Software".
+・ Click "Browse my computer for driver software".
+-Select the folder "CDM v2.12.28 WHQL Certified" in the location specification, and click "Next".
+(3) The serial driver update is complete when you can confirm that the Teraterm recognizes it.
